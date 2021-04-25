@@ -14,7 +14,6 @@ type Episode = {
   title: string;
   members: string;
   thumbnail: string;
-  description: string;
   duration: number;
   durationAsString: string;
   url: string;
